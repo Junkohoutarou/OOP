@@ -1,0 +1,6 @@
+﻿  SoPhuc.cpp
+D:\UIT_code(VS)\BAITAP2_PHANCAPHAT_21520389\baitap2\SoPhuc.cpp(80,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UIT_code(VS)\BAITAP2_PHANCAPHAT_21520389\baitap2\SoPhuc.cpp(81,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  baitap2.cpp
+  Generating Code...
+  baitap2.vcxproj -> D:\UIT_code(VS)\BAITAP2_PHANCAPHAT_21520389\x64\Debug\baitap2.exe

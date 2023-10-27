@@ -1,0 +1,26 @@
+﻿  PoKeMon.cpp
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(87,132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(88,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(89,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(90,137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(91,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(92,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(105,132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(106,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(107,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(108,137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(109,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(110,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(130,132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(131,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(132,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(133,137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(134,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(135,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(148,132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(149,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(150,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(151,137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(152,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\BaiThi\BaiThi\PoKeMon.cpp(153,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BaiThi.vcxproj -> C:\Users\PC\source\repos\BaiThi\Debug\BaiThi.exe
